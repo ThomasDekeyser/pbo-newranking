@@ -1,0 +1,2 @@
+groupcode;groupname;code;memberid;lastname;lastname2;middlename;firstname;address;address2;address3;postalcode;city;state;country;gender;dob;phone;phone2;mobile;fax;fax2;email;website;categoryname;startdate;endate;role;PlayerLevelSingle;PlayerLevelDouble;PlayerLevelMixed;TypeName
+ADD565CC-8DF9-4DC0-9E27-F5C3E076EFA4;GENTSE BC;EE3C558E-758E-459D-814F-0D21849A3C24;50022666;Dekeyser;;;Thomas;Straatje 57;;;9000;Gent;;BEL;M;25-4-1900;0478/11.22.33;;;;;ob@gmail.com;;;5-11-2008;31-12-9999;Speler;C1;C1;C1;Competitiespeler

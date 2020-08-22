@@ -1,0 +1,9 @@
+donwload-ranking:
+  input: C:\checkouts\lion-freaky\lf_db\data\tmp\players.csv
+  output: target\output.txt
+
+logging:
+  level:
+    root: INFO
+  pattern:
+    console: "%d [%thread] %-5level %logger{36} - %msg%n"
